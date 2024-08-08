@@ -4,5 +4,7 @@
 Please note below prerequisites:
 
 ✔️This script will only work if the application is installed using MSI installer.
+
 ✔️You should have the base MSI installer placed at same location as script. You will be unable to install/uninstall it but the script will tweak the file to get the work done.
+
 ✔️Required powershell v5.0 and above.
